@@ -29,4 +29,8 @@
 # Executables
 *.exe
 *.out
-*.app
+/*.vcxproj
+/*.filters
+/*.user
+/GeneratedFiles
+/x64
